@@ -1,0 +1,170 @@
+<mjml>
+  <mj-head>
+    <mj-title>Discount Light</mj-title>
+    <mj-preview>Pre-header Text</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-all>
+      <mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"></mj-text>
+    </mj-attributes>
+    <mj-style inline="inline">
+      .body-section {
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .text-link {
+      color: #5e6ebf
+      }
+    </mj-style>
+    <mj-style inline="inline">
+      .footer-link {
+      color: #888888
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#E7E7E7" width="600px">
+    <mj-section full-width="full-width" background-color="#085da3" padding-bottom="0">
+      <mj-column width="100%">
+        <mj-image src="images/logo.png" alt="" align="center" width="150px" />
+        <mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px">
+          Tucson, AZ
+          <br />
+          <span style="color: #979797; font-weight: normal">-</span>
+        </mj-text>
+        <mj-text color="black" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px">
+          Aquatic Center
+          <br />
+          5302 E Pima St, 85712
+        </mj-text>
+        <mj-image src="images/banner2.jpg" width="600px" alt="" padding="0" href="https://google.com" />
+      </mj-column>
+    </mj-section>
+    <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px">
+            International Water Safety Day is on May 15
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            Hi Jane,
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            International Water Safety Day is celebrated on May 15 each year. Saguaro Aquatics has teamed up with our colleagues at Diversity in Aquatics to really make an impact on this day this year, particularly with school districts and community groups. These agencies can all promote water safety on a local, state and national level in a dryland setting without the need of a body of water.
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            The goals for International Water Safety Day are to reduce drowning and water-related fatalities by:
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            <ul>
+              <li style="padding-bottom: 20px">Bringing awareness and knowledge on how to be safe in and around aquatic areas.</li>
+              <li style="padding-bottom: 20px">Increasing knowledge and awareness to recognize hazardous environments.</li>
+              <li>Encouraging students to communicate the importance of water safety to their communities, family and friends and share steps they can take to be safer in and around water.</li>
+            </ul>
+          </mj-text>
+          <mj-text color="#637381" font-size="16px" padding-bottom="30px">
+            Join fellow Red Cross Water Safety Instructors in helping raise awareness on Thursday, May 15, 2020. This event provides kids and parents exposure to lifelong, life-saving water safety skills and helps build awareness about the vital importance of teaching children to swim to prevent drowning.
+          </mj-text>
+          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+            RSVP Today
+          </mj-button>
+          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+            Book an Appointment
+          </mj-button>
+          <mj-text color="#637381" font-size="16px" padding-bottom="0">
+            Start your planning now: all WLSL lessons will take place on Thursday, May 15
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="50%">
+          <mj-image align="center" src="images/logo3.jpg" alt="" />
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image align="center" src="images/logo4.jpg" alt="" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0">
+        <mj-column width="100%">
+          <mj-divider border-color="#DFE3E8" border-width="1px" />
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding="0 15px 0 15px">
+        <mj-column width="100%">
+          <mj-text color="#212b35" font-weight="bold" font-size="20px" padding-bottom="0">
+            Come see us!
+          </mj-text>
+          <mj-text color="#637381" font-size="16px">
+            We're looking forward to meeting you.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            address
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            Aquatic Center
+            <br />
+            5302 E Pima St, 85712
+          </mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0">
+            Hours of Operation
+          </mj-text>
+          <mj-text color="#637381" font-size="14px" padding-top="0">
+            Wednesday, May 14th: 8:00AM - 5:00PM
+            <br />
+            Thursday, May 15th: 8:00AM - 5:00PM
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+        <mj-column width="100%">
+          <mj-image src="images/p1.png" alt="" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+
+    <mj-wrapper full-width="full-width">
+      <mj-section>
+        <mj-column width="100%" padding="0">
+          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+            <mj-social-element name="facebook" href="https://mjml.io/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="google" href="https://mjml.io/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="twitter" href="https://mjml.io/" background-color="#A1A0A0">
+            </mj-social-element>
+            <mj-social-element name="linkedin" href="https://mjml.io/" background-color="#A1A0A0">
+            </mj-social-element>
+          </mj-social>
+          <mj-text color="#445566" font-size="11px" font-weight="bold" align="center">
+            View this email in your browser
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            You are receiving this email advertisement because you registered with Saguaro Aquatics. (5302 E Pima St, 85712, Tucson, AZ 85712) and agreed to receive emails from us regarding new features, events and special offers.
+          </mj-text>
+          <mj-text color="#445566" font-size="11px" align="center" line-height="16px">
+            &copy; Saguaro Aquatics, All Rights Reserved.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0">
+        <mj-group>
+          <mj-column width="100%" padding-right="0">
+            <mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold">
+              <a class="footer-link" href="https://www.google.com">Privacy</a>&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;&#xA0;<a class="footer-link" href="https://www.google.com">Unsubscribe</a>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+
+      </mj-section>
+    </mj-wrapper>
+
+  </mj-body>
+</mjml>
