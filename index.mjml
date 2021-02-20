@@ -43,7 +43,7 @@
       </mj-column>
     </mj-section>
     <mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section">
-      <mj-section background-color="#ffffff" padding-left="15px" padding-right="15px">
+      <mj-section background-color="#ffffff" padding-left="30px" padding-right="30px">
         <mj-column width="100%">
           <mj-text color="#212b35" font-weight="bold" font-size="20px">
             International Water Safety Day is on May 15
@@ -67,10 +67,10 @@
           <mj-text color="#637381" font-size="16px" padding-bottom="30px">
             Join fellow Red Cross Water Safety Instructors in helping raise awareness on Thursday, May 15, 2020. This event provides kids and parents exposure to lifelong, life-saving water safety skills and helps build awareness about the vital importance of teaching children to swim to prevent drowning.
           </mj-text>
-          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="190px">
             RSVP Today
           </mj-button>
-          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px">
+          <mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="190px">
             Book an Appointment
           </mj-button>
           <mj-text color="#637381" font-size="16px" padding-bottom="0">
